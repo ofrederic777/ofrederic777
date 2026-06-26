@@ -1,4 +1,15 @@
 ## Hi there 👋
+![a image of a cat waving](cat-waving-hand.gif)
+
+ofrederic here, a current senior at Kenwood Academy with a big interest in tech
+
+My first piece of real technology was  a T450 Lenovo Thinkpad, so old right...
+
+![a image of a](old_laptop.jpg)
+
+This is my first ever readme profile so I'll probably makes some changes to it later
+
+
 
 <!--
 **ofrederic777/ofrederic777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
